@@ -53,7 +53,7 @@ function App() {
             </div>
           ))
         ) : (
-          <div>There is no data</div>
+          <div>There is no datas</div>
         )}
       </div>
     </div>
